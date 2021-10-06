@@ -1,0 +1,7 @@
+Una dintre aplicatiile Cloud de tip Software as a service pe care le folosc
+este Dropbox.Dropbox este un serviciu de gazduire a fisierelor care are sediul
+in San Francisco,California.Utilizatorii isi pot crea un cont gratuit si pot stoca o
+cantintate limitata de date,dupa aceea trebuie sa plateasca.In 2014 valoarea companiei
+a fost estimata la 10 miliarde de dolari.Dropbox a fost scris in limbajele de programare
+Phython si Go si foloseste pentru a encripta fisiere standardul AES de 256 gb.
+ 
